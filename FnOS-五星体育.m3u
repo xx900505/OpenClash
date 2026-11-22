@@ -15,7 +15,6 @@ http://xx900505.dpdns.org:5080/wxty.php?id=hhxd
 #EXTINF:-1 tvg-id="1287" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育频道
 http://xx900505.dpdns.org:5080/wxty.php?id=wxty
 #EXTINF:-1 tvg-name="noepg" group-title="地方",外语频道
-http://192.168.3.220:5080/wxty.php?id=mdy
 http://xx900505.dpdns.org:5080/wxty.php?id=mdy
 #EXTINF:-1 tvg-name="noepg" group-title="地方",上海纪实人文
 http://xx900505.dpdns.org:5080/wxty.php?id=jsrw
