@@ -1,0 +1,21 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="地方",东方卫视
+http://xx900505.dpdns.org:5080/wxty.php?id=dfws
+#EXTINF:-1 tvg-id="1284" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="地方",上视新闻综合频道
+http://xx900505.dpdns.org:5080/wxty.php?id=shxwzh
+#EXTINF:-1 tvg-name="noepg" group-title="地方",上海都市频道
+http://xx900505.dpdns.org:5080/wxty.php?id=shds
+#EXTINF:-1 tvg-id="1285" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="地方",第一财经
+http://xx900505.dpdns.org:5080/wxty.php?id=dycj
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="地方",哈哈炫动
+http://xx900505.dpdns.org:5080/wxty.php?id=hhxd
+#EXTINF:-1 tvg-id="1287" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方",五星体育频道
+http://xx900505.dpdns.org:5080/wxty.php?id=wxty
+#EXTINF:-1 tvg-name="noepg" group-title="地方",外语频道
+http://192.168.3.220:5080/wxty.php?id=mdy
+http://xx900505.dpdns.org:5080/wxty.php?id=mdy
+#EXTINF:-1 tvg-name="noepg" group-title="地方",上海纪实人文
+http://xx900505.dpdns.org:5080/wxty.php?id=jsrw
